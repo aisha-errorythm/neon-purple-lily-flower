@@ -1,0 +1,16 @@
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated renders and previews
+lily_3d_botanical_animation.mp4
+lily_preview/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
